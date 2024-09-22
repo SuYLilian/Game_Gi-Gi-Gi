@@ -1,2 +1,2 @@
 # Game_Gi-Gi-Gi
- This is a 2D parkour game that combines casual nurturing elements.
+ This is an educational game about disaster preparedness, teaching players how to prepare an emergency backpack.
