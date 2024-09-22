@@ -1,2 +1,2 @@
 # Game_Gi-Gi-Gi
- This is a cooperative two-player game.
+ This is a 2D parkour game that combines casual nurturing elements.
